@@ -1,0 +1,52 @@
+:root {
+    --theme: #651FFF;
+}
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+.sign-in {
+    background-color: transparent;
+    padding: 10px;
+    border: 2px solid black;
+    color: black;
+    border-radius: 10px;
+}
+.Account {
+    color: white;
+    background-color: var(--theme);
+    padding: 10px;
+    border-radius: 10px;
+}
+p {
+    font-family: "Open Sans", sans-serif;
+}
+h1 {
+    font-family: "Open Sans", sans-serif;
+}
+h2 {
+    font-family: "Open Sans", sans-serif;
+}
+
+ #jo{
+    background-color: #EBE5FA;
+}
+.lightning {
+    padding: 100px 0px;
+}
+
+.lightning-wrapper>div>div>div {
+    background-color: var(--theme);
+    padding: 50px;
+    color: #ffffff;
+    border-radius: 20px;
+}
+
+.lightning-wrapper>div>div>div a {
+    color: #ffffff;
+}
+
+.lightweight .col-lg-6 > div {
+    padding: 20px;
+    border-radius: 10px;
+}
